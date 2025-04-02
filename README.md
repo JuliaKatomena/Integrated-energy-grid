@@ -13,3 +13,29 @@ FInd information by friday and we start with the code.
 Source for fuel CO2 production (Coal and Natural Gas): https://ourworldindata.org/grapher/carbon-dioxide-emissions-factor?country=Bitumen~Anthracite~Charcoal~Coke~Natural+Gas~Oil+Shale+%26+Tar+Sands
 
 Source for Power Generation Sense: https://www.irena.org/-/media/Files/IRENA/Agency/Publication/2024/Sep/IRENA_Renewable_power_generation_costs_in_2023.pdf
+
+COSTS: 
+- CAPITAL (USD/kW): 
+  - solar: 753
+  - offshore: 2564
+  - onshore: 1600
+  - gas: 900 euro 
+  - coal(sub-critical): 1200 euro (emissions 0.8) 
+- MARGIN:
+  - solar: 18.2
+  - offshore: 80
+  - onshore: 40
+  - gas: 2
+  - coal: 6
+ 
+    GAS: initial investment: 0.57 MEuro/MW
+    fixed O&M: 19500 euro/MW/year
+    variable: 4.4 euro/MWh ( without fuel and CO2 ~70 to 120 with it ) 
+
+    coal:
+    initial investment: 2.5 MEuro/MW
+    fixed O&M: 45500 euro/MW/year
+    variable: 6.5 euro/MWh ( without fuel and CO2 ~108 euro/MWh) 
+    
+ 
+  CO2 floor thingy: https://www.rijksfinancien.nl/sites/default/files/bestanden/belastingplan-2024/overige-impactanalyses/Frontier-Economics-CPF-for-electricity-generation-and-industry-Supervisory-committee.pdf?utm_source=chatgpt.com
