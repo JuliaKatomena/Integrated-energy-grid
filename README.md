@@ -15,35 +15,31 @@ Source for fuel CO2 production (Coal and Natural Gas): https://ourworldindata.or
 Source for Power Generation Sense: https://www.irena.org/-/media/Files/IRENA/Agency/Publication/2024/Sep/IRENA_Renewable_power_generation_costs_in_2023.pdf
 
 COSTS: 
-solar: USD
-- capital: 753
-- marginal: 18.2
+solar: 
+- capital: 753 USD/kW
+- marginal: 18.2 USD/kWh
   
-offshore: USD
-- capital: 2564
-- marginal: 80
+offshore: 
+- capital: 2564 USD/kW
+- marginal: 80 USD/kWh
   
-onshore: USD
-- capital: 1600
-- marginal: 40
+onshore: 
+- capital: 1600 USD/kW
+- marginal: 40 USD/kWh
   
 gas: euro
 - capital: 0.58 Meuro/MW (I had 900 from one file)  
-- marginal: 90
+- marginal: 90 euro/MWh
   
 coal(sub-critical): euro
-- capital:  1200 euro 
-- marginal: 108
+- capital:  2.5 MEuro/MW
+- marginal: 108 euro/MWh
 - emissions: 0.8 
   
 nuclear: euro
-- capital: 4500
-- marginal:16
+- capital: 8594 euro/kW
+- marginal:16 euro/MWh
   
-oil-combustion turbine:  euro
-- capital: 450 
-- marginal:1.5
-- emissions: 0.43 
 
 
     GAS: initial investment: 0.57 MEuro/MW
@@ -56,6 +52,8 @@ oil-combustion turbine:  euro
     variable: 6.5 euro/MWh ( without fuel and CO2 ~108 euro/MWh)
 
 
-    
+ fuel costs:
+- https://tradingeconomics.com/commodity/eu-natural-gas
+- https://tradingeconomics.com/commodity/coal    
  
   CO2 floor thingy: https://www.rijksfinancien.nl/sites/default/files/bestanden/belastingplan-2024/overige-impactanalyses/Frontier-Economics-CPF-for-electricity-generation-and-industry-Supervisory-committee.pdf?utm_source=chatgpt.com
