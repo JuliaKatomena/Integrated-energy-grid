@@ -57,3 +57,9 @@ nuclear: euro
 - https://tradingeconomics.com/commodity/coal    
  
   CO2 floor thingy: https://www.rijksfinancien.nl/sites/default/files/bestanden/belastingplan-2024/overige-impactanalyses/Frontier-Economics-CPF-for-electricity-generation-and-industry-Supervisory-committee.pdf?utm_source=chatgpt.com
+
+  Battery capital cost:
+  https://www.iea.org/reports/batteries-and-secure-energy-transitions/executive-summary?utm_source=chatgpt.com
+
+  Hydro Pump Capital Cost: 
+  https://iea.blob.core.windows.net/assets/4d2d4365-08c6-4171-9ea2-8549fabd1c8d/HydropowerSpecialMarketReport_corr.pdf?utm_source=chatgpt.com
