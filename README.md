@@ -61,5 +61,11 @@ nuclear: euro
   Battery capital cost:
   https://www.iea.org/reports/batteries-and-secure-energy-transitions/executive-summary?utm_source=chatgpt.com
 
+  Netherlands installed battery capacity:
+  https://innovationorigins.com/en/home-batteries-drive-dutch-energy-storage-installations/?utm_source=chatgpt.com
+
   Hydro Pump Capital Cost: 
   https://iea.blob.core.windows.net/assets/4d2d4365-08c6-4171-9ea2-8549fabd1c8d/HydropowerSpecialMarketReport_corr.pdf?utm_source=chatgpt.com
+
+  Netherlands Underground Pumped Hydro:
+  https://deingenieur.nl/artikelen/energy-storage-using-water-is-an-option-in-the-netherlands
