@@ -69,3 +69,6 @@ nuclear: euro
 
   Netherlands Underground Pumped Hydro:
   https://deingenieur.nl/artikelen/energy-storage-using-water-is-an-option-in-the-netherlands
+
+  Netherlands Lion Battery Storage System: 
+  https://www.energy-storage.news/lion-storage-reaches-fid-on-1-4gwh-bess-in-the-netherlands/
