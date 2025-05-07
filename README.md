@@ -31,3 +31,10 @@ To run the notebooks, you’ll need the following Python packages:
 2. Launch Jupyter Notebook
 3. Open files and run all cells in order. The notebooks will load the required data and execute the model setup and optimization steps.
 
+## License 
+Copyright (c) 2025 Julia Perkowska and contributors  
+All rights reserved.
+
+This code is provided for academic evaluation purposes only.  
+It may not be copied, modified, or reused without explicit permission from the authors.
+
