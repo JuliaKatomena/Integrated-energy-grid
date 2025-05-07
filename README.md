@@ -8,7 +8,7 @@ This repository contains the code and data for our energy system modelling proje
 - **Project_Part_C.ipynb** – Contains Part C of the project.
 - **Data/** – Folder containing all datasets used in the project (e.g., electricity demand, wind profile, etc.).
 
-> ⚠️ Make sure the `Data` folder is located in the same directory as the notebooks. The notebooks access data using relative paths (e.g., `"Data/electricity_demand.csv"`).
+> Make sure the `Data` folder is located in the same directory as the notebooks. The notebooks access data using relative paths (e.g., `"Data/electricity_demand.csv"`).
 
 ## Dependencies
 
